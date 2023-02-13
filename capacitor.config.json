@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "Ionic project",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "com.fehmi.IonicAngular",
+  "appName": "Ionic Angular project",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
